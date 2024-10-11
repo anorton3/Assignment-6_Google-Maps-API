@@ -4,4 +4,4 @@
 Hilton, Radisson, Best Western, and Marriott
 *Data compiled from POI Factory
 
-<https://anorton3.github.io/Assignment_5_Assignment-6_Google-Maps-API/usahotels/>
+<https://anorton3.github.io/Assignment-6_Google-Maps-API/usahotels/>
