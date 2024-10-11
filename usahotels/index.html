@@ -9550,15 +9550,19 @@ async function initMap() {
     data: getPoints3(),
     map: map,
     gradient: [
-    "rgba(0, 255, 255, 0)",
-    "rgba(0, 255, 255, 1)",
-    "rgba(0, 191, 255, 1)",
+      "rgba (229, 106, 179)",
+      "rgba (239, 135, 190)",
+      "rgba (249, 163, 203)",
+      "rgba (252, 188, 215)",
+      "rgba (255, 206, 230)",
     ]
     });
     var heatmap4 =  new google.maps.visualization.HeatmapLayer({
     data: getPoints4(),
     map: map,
-    gradient: [
+    gradient: ["rgba(0, 255, 255, 0)",
+    "rgba(0, 255, 255, 1)",
+    "rgba(0, 191, 255, 1)",
     "rgba(0, 127, 255, 1)",
     "rgba(0, 63, 255, 1)",
     "rgba(0, 0, 255, 1)",
