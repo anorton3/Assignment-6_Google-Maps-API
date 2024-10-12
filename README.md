@@ -7,6 +7,8 @@ Starbucks versus Caribou Coffee
 <https://anorton3.github.io/Assignment-6_Google-Maps-API/coffeespots/>
 
 
+
+
 # Google Heat Map #2 -- Hotel Chains in the United States
 Hilton, Radisson, Best Western, and Marriott
 *Data compiled from POI Factory
